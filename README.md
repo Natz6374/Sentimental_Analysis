@@ -1,4 +1,3 @@
-# Sentimental_Analysis
 ---
 
 # **Sentiment Analysis API with Gradio**  
